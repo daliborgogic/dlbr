@@ -1,9 +1,0 @@
-version: 2
-jobs:
-  build:
-    machine:
-      node:
-        version 7.10.0
-    working_directory: ~/
-    steps:
-      - run:  npm test
