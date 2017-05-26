@@ -1,6 +1,7 @@
 version: 2
 jobs:
-  - run:
+  build:
+    - run:
       name: test
       command: npm test
 
