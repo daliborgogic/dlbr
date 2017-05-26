@@ -4,6 +4,6 @@ jobs:
     machine:
       node:
         version 7.10.0
-    working_directory: ~/dlbr
+    working_directory: ~/
     steps:
       - run:  npm test
