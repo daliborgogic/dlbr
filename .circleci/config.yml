@@ -1,8 +1,9 @@
 version: 2
 jobs:
   build:
+    machine:
+      node:
+        version 7.10.0
+    working_directory: ~/dlbr
     steps:
-      - run:
-        name: test
-        command: npm test
-
+      - run:  npm test
