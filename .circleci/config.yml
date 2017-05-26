@@ -1,6 +1,6 @@
- version: 2
- machine:
-  timezone:
-    Europe/Belgrade
-  node:
-    version: 7.10.0
+version: 2
+jobs:
+  - run:
+      name: test
+      command: npm test
+
