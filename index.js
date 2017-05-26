@@ -7,11 +7,11 @@
  * @return {String}
  */
 
-function formater(currency, amount) {
+function formatCurrency(currency, amount) {
 	return new Intl.NumberFormat(undefined, {
 		style: 'currency',
 		currency: currency
 	}).format(amount)
 }
 
-module.exports = formater
+module.exports = formatCurrency

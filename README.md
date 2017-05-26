@@ -1,5 +1,5 @@
 # Format currency
 
 ```bash
-$ format('RSD', 99.99)
+$ formatCurrency('RSD', 99.99)
 ```
