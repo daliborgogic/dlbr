@@ -1,7 +1,8 @@
 version: 2
 jobs:
   build:
-    - run:
-      name: test
-      command: npm test
+    steps:
+      - run:
+        name: test
+        command: npm test
 
