@@ -4,8 +4,12 @@
   "description": "Format currency",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "test": "node tests/index.js"
   },
   "author": "Dalibor Gogic <mail@daliborgogic.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
 }
