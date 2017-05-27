@@ -8,13 +8,21 @@ const lang = require('./languages.json')
  * @param {Number}   amount     99.99
  * @return {String}
  */
+ // let a = () => {
+ //  return new INumber(123456.789).toLocaleString('de-DE'); // 123.456,789
+ // console.log('A ', a)
+ // }
 
 function formatCurrency(language, amount) {
-	return new Intl.NumberFormat(language, {
-		style: 'currency',
-		currency: 'RSD',//lang[language]['currency'],
-    minimumFractionDigits: 2 //lang[language]['minimumFractionDigits']
-	}).format(amount)
+  let opts = {}
+
+  opts.style = 'currency'
+  opts.currency = lang[language]['currency']
+  opts.minimumFractionDigits = lang[language]['minimumFractionDigits']
+
+  let formatter = new Intl.NumberFormat(language,opts)
+
+  return formatter.format(amount)
 }
 
 module.exports = formatCurrency
