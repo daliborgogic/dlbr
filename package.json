@@ -1,15 +1,18 @@
 {
   "name": "dlbr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Format currency",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js",
-    "test": "node tests/index.js"
+    "start": "node --icu-data-dir=node_modules/full-icu index.js",
+    "test": "node --icu-data-dir=node_modules/full-icu tests/index.js"
   },
   "author": "Dalibor Gogic <mail@daliborgogic.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "full-icu": "^1.1.3"
   }
 }
