@@ -17,7 +17,3 @@ function formatCurrency(language, amount) {
 }
 
 module.exports = formatCurrency
-
-console.log(formatCurrency('en-US',  123))
-console.log(formatCurrency('sr-RS',  123))
-
