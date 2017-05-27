@@ -1,13 +1,12 @@
 'use strict'
-
 const test = require('tape')
 const lang = require('../languages.json')
-const format = require('../index.js')
+const formatCurrency = require('../index.js')
 
 test('Serbian Dinar', assert => {
-  const expected = 'RSD 51'
-  const actual = format('sr-RS', 50.55)
-  console.log(actual)
+  const expected = 'RSD 99.99'
+  const actual = formatCurrency('sr-RS', 99.99)
+  console.log(formatCurrency('sr-RS', 99.99))
 
   assert.equal(actual, expected, 'Wohoo!')
 
