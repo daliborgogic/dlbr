@@ -1,0 +1,10 @@
+{
+  "en-US": {
+    "currency": "USD",
+    "minimumFractionDigits": 2
+  },
+  "sr-RS": {
+    "currency": "RSD",
+    "minimumFractionDigits": 2
+  }
+}

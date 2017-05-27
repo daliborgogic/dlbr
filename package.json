@@ -1,6 +1,6 @@
 {
   "name": "dlbr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Format currency",
   "main": "index.js",
   "scripts": {

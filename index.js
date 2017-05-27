@@ -1,4 +1,5 @@
 'use strict'
+const lang = require('./languages.json')
 
 /**
  * Format Currency
@@ -7,11 +8,16 @@
  * @return {String}
  */
 
-function formatCurrency(currency, amount) {
-	return new Intl.NumberFormat(undefined, {
+function formatCurrency(language, amount) {
+	return new Intl.NumberFormat(language, {
 		style: 'currency',
-		currency: currency
+		currency: lang[language]['currency'],
+    minimumFractionDigits: lang[language]['minimumFractionDigits']
 	}).format(amount)
 }
 
 module.exports = formatCurrency
+
+console.log(formatCurrency('en-US',  123))
+console.log(formatCurrency('sr-RS',  123))
+
