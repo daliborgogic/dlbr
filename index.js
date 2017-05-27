@@ -2,6 +2,9 @@
 
 const lang = require('./languages.json')
 
+var Intl = require('intl')
+
+
 /**
  * Format Currency
  * @param {String}   language   'en-US'
@@ -28,3 +31,4 @@ function formatCurrency(language, amount) {
 module.exports = formatCurrency
 
 console.log(formatCurrency('sr-RS', 99.99))
+console.log(formatCurrency('en-US', 99.99))
