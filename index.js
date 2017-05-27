@@ -3,8 +3,8 @@ const lang = require('./languages.json')
 
 /**
  * Format Currency
- * @param {String}   currency   ISO 4217:2015 Codes for the representation of currencies
- * @param {Number}   amount
+ * @param {String}   language   'en-US'
+ * @param {Number}   amount     99.99
  * @return {String}
  */
 
