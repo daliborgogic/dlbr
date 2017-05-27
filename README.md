@@ -11,7 +11,7 @@ $ npm i
 # production mode
 $ npm start
 
-# Test
+# test
 $ npm t
 ```
 
