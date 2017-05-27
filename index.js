@@ -8,10 +8,6 @@ const lang = require('./languages.json')
  * @param {Number}   amount     99.99
  * @return {String}
  */
- // let a = () => {
- //  return new INumber(123456.789).toLocaleString('de-DE'); // 123.456,789
- // console.log('A ', a)
- // }
 
 function formatCurrency(language, amount) {
   let opts = {}
