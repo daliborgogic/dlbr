@@ -12,7 +12,7 @@ function formatCurrency(language, amount) {
 	return new Intl.NumberFormat(language, {
 		style: 'currency',
 		currency: lang[language]['currency'],
-    minimumFractionDigits: lang[language]['minimumFractionDigits']
+    	minimumFractionDigits: lang[language]['minimumFractionDigits']
 	}).format(amount)
 }
 
