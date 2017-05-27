@@ -6,5 +6,13 @@
   "sr-RS": {
     "currency": "RSD",
     "minimumFractionDigits": 2
+  },
+  "ja-JP": {
+    "currency": "JPY",
+    "minimumFractionDigits": 2
+  },
+  "en-GB": {
+    "currency": "GBP",
+    "minimumFractionDigits": 2
   }
 }

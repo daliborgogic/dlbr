@@ -1,6 +1,6 @@
 {
   "name": "dlbr",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Format currency",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,19 @@
     "dev": "node node index.js index.js",
     "test": "node tests/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliborgogic/dlbr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daliborgogic/dlbr/issues"
+  },
+  "keywords": [
+    "format",
+    "curency",
+    "formating",
+    "string"
+  ],
   "author": "Dalibor Gogic <mail@daliborgogic.com>",
   "license": "MIT",
   "devDependencies": {
