@@ -14,8 +14,8 @@ function formatCurrency(language, amount) {
 
   opts.style = 'currency'
   opts.currency = lang[language]['currency']
-
   opts.minimumFractionDigits = lang[language]['minimumFractionDigits']
+
   if (typeof window != 'undefined' && window.document) {
     let formatter = new Intl.NumberFormat(language,opts)
     return formatter.format(amount)
@@ -27,7 +27,3 @@ function formatCurrency(language, amount) {
 }
 
 module.exports = formatCurrency
-
-// console.log(formatCurrency('sr-RS', 99.99))
-// console.log(formatCurrency('en-GB', 99.99))
-// console.log(formatCurrency('ja-JP', 99.99))
