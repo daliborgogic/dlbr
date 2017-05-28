@@ -779,7 +779,6 @@
     "currency": "RSD",
     "minimumFractionDigits": 2
   },
-<<<<<<< HEAD
   "sr-CS": {
   	"country": "Serbia",
     "currency": "RSD",
@@ -999,14 +998,5 @@
   	"country": "Zimbabwe",
     "currency": "ZWL",
     "minimumFractionDigits": 2
-=======
-  "ja-JP": {
-    "currency": "JPY",
-    "minimumFractionDigits": 2
-  },
-  "en-GB": {
-    "currency": "GBP",
-    "minimumFractionDigits": 2
->>>>>>> 06e33636114ac60a449886707ecc1625957e4447
   }
 }
