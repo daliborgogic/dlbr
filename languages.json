@@ -159,7 +159,7 @@
     "currency": "CLF",
     "minimumFractionDigits": 4
   },
-    "zh-CN": {
+  "zh-CN": {
   	"country": "China",
     "currency": "CNY",
     "minimumFractionDigits": 2
