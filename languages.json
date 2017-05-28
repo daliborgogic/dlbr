@@ -1,18 +1,1002 @@
 {
-  "en-US": {
+  "prs-AF": {
+  	"country": "Afghanistan",
+    "currency": "AFN",
+    "minimumFractionDigits": 2
+  },
+  "ps-AF": {
+  	"country": "Afghanistan",
+    "currency": "AFN",
+    "minimumFractionDigits": 2
+  },
+  "sq-AL": {
+  	"country": "Albania",
+    "currency": "ALL",
+    "minimumFractionDigits": 2
+  },
+  "ar-DZ": {
+  	"country": "Algeria",
+    "currency": "DZD",
+    "minimumFractionDigits": 2
+  },
+  "tzm-DZ": {
+  	"country": "Algeria",
+    "currency": "DZD",
+    "minimumFractionDigits": 2
+  },
+  "es-AR": {
+  	"country": "Argentina",
+    "currency": "ARS",
+    "minimumFractionDigits": 2
+  },
+  "hy-AM": {
+  	"country": "Armenia",
+    "currency": "AMD",
+    "minimumFractionDigits": 2
+  },
+  "en-AU": {
+  	"country": "Australia",
+    "currency": "AUD",
+    "minimumFractionDigits": 2
+  },
+  "de-AT": {
+  	"country": "Austria",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "az-AZ": {
+  	"country": "Azerbaijan",
+    "currency": "AZN",
+    "minimumFractionDigits": 2
+  },
+  "ar-BH": {
+  	"country": "Bahrain",
+    "currency": "BHD",
+    "minimumFractionDigits": 3
+  },
+  "bn-BD": {
+  	"country": "Bangladesh",
+    "currency": "BDT",
+    "minimumFractionDigits": 2
+  },
+  "be-BY": {
+  	"country": "Belarus",
+    "currency": "BYN",
+    "minimumFractionDigits": 2
+  },
+  "nl-BE": {
+  	"country": "Belgium",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "fr-BE": {
+  	"country": "Belgium",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "en-BZ": {
+  	"country": "Belize",
+    "currency": "BZD",
+    "minimumFractionDigits": 2
+  },
+  "es-VE": {
+  	"country": "Bolivarian Republic of Venezuela",
+    "currency": "VEF",
+    "minimumFractionDigits": 2
+  },
+  "quz-BO": {
+  	"country": "Bolivia",
+    "currency": "BOB",
+    "minimumFractionDigits": 2
+  },
+  "es-BO": {
+  	"country": "Bolivia",
+    "currency": "BOV",
+    "minimumFractionDigits": 2
+  },
+  "bs-BA": {
+  	"country": "Bosnia and Herzegovina",
+    "currency": "BAM",
+    "minimumFractionDigits": 2
+  },
+  "hr-BA": {
+  	"country": "Bosnia and Herzegovina",
+    "currency": "BAM",
+    "minimumFractionDigits": 2
+  },
+  "sr-BA": {
+  	"country": "Bosnia and Herzegovina",
+    "currency": "BAM",
+    "minimumFractionDigits": 2
+  },
+  "pt-BR": {
+  	"country": "Brazil",
+    "currency": "BRL",
+    "minimumFractionDigits": 2
+  },
+  "ms-BN": {
+  	"country": "Brunei Darussalam",
+    "currency": "BND",
+    "minimumFractionDigits": 2
+  },
+  "bg-BG": {
+  	"country": "Bulgaria",
+    "currency": "BGN",
+    "minimumFractionDigits": 2
+  },
+  "km-KH": {
+  	"country": "Cambodia",
+    "currency": "KHR",
+    "minimumFractionDigits": 2
+  },
+  "en-CA": {
+  	"country": "Canada",
+    "currency": "CAD",
+    "minimumFractionDigits": 2
+  },
+  "fr-CA": {
+  	"country": "Canada",
+    "currency": "CAD",
+    "minimumFractionDigits": 2
+  },
+  "iu-CA": {
+  	"country": "Canada",
+    "currency": "CAD",
+    "minimumFractionDigits": 2
+  },
+  "moh-CA": {
+  	"country": "Canada",
+    "currency": "CAD",
+    "minimumFractionDigits": 2
+  },
+  "arn-CL": {
+  	"country": "Chile",
+    "currency": "CLP",
+    "minimumFractionDigits": 0
+  },
+  "es-CL": {
+  	"country": "Chile",
+    "currency": "CLF",
+    "minimumFractionDigits": 4
+  },
+    "zh-CN": {
+  	"country": "China",
+    "currency": "CNY",
+    "minimumFractionDigits": 2
+  },
+  "mn-CN": {
+  	"country": "China",
+    "currency": "CNY",
+    "minimumFractionDigits": 2
+  },
+  "bo-CN": {
+  	"country": "China",
+    "currency": "CNY",
+    "minimumFractionDigits": 2
+  },
+  "ug-CN": {
+  	"country": "China",
+    "currency": "CNY",
+    "minimumFractionDigits": 2
+  },
+  "ii-CN": {
+  	"country": "China",
+    "currency": "CNY",
+    "minimumFractionDigits": 2
+  },
+  "es-CO": {
+  	"country": "Colombia",
+    "currency": "COP",
+    "minimumFractionDigits": 2
+  },
+  "es-CR": {
+  	"country": "Costa Rica",
+    "currency": "CRC",
+    "minimumFractionDigits": 2
+  },
+  "hr-HR": {
+  	"country": "Croatia",
+    "currency": "HRK",
+    "minimumFractionDigits": 2
+  },
+  "cs-CZ": {
+  	"country": "Czech Republic",
+    "currency": "CZK",
+    "minimumFractionDigits": 2
+  },
+  "da-DK": {
+  	"country": "Denmark",
+    "currency": "DKK",
+    "minimumFractionDigits": 2
+  },
+  "es-DO": {
+  	"country": "Dominican Republic",
+    "currency": "XCD",
+    "minimumFractionDigits": 2
+  },
+  "quz-EC": {
+  	"country": "Ecuador",
     "currency": "USD",
     "minimumFractionDigits": 2
   },
-  "sr-RS": {
-    "currency": "RSD",
+  "es-EC": {
+  	"country": "Ecuador",
+    "currency": "USD",
+    "minimumFractionDigits": 2
+  },
+  "ar-EG": {
+  	"country": "Egypt",
+    "currency": "EGP",
+    "minimumFractionDigits": 2
+  },
+  "es-SV": {
+  	"country": "El Salvador",
+    "currency": "SVC",
+    "minimumFractionDigits": 2
+  },
+  "et-EE": {
+  	"country": "Estonia",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "am-ET": {
+  	"country": "Ethiopia",
+    "currency": "ETB",
+    "minimumFractionDigits": 2
+  },
+  "fo-FO": {
+  	"country": "Faroe Islands",
+    "currency": "DKK",
+    "minimumFractionDigits": 2
+  },
+  "fi-FI": {
+  	"country": "Finland",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "smn-FI": {
+  	"country": "Finland",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "se-FI": {
+  	"country": "Finland",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "sv-FI": {
+  	"country": "Finland",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "gsw-FR": {
+  	"country": "France",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "br-FR": {
+  	"country": "France",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "co-FR": {
+  	"country": "France",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "fr-FR": {
+  	"country": "France",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "oc-FR": {
+  	"country": "France",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "ka-GE": {
+  	"country": "Georgia",
+    "currency": "GEL",
+    "minimumFractionDigits": 2
+  },
+  "de-DE": {
+  	"country": "Germany",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "dsb-DE": {
+  	"country": "Germany",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "hsb-DE": {
+  	"country": "Germany",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "el-GR": {
+  	"country": "Greece",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "kl-GL": {
+  	"country": "Greenland",
+    "currency": "DKK",
+    "minimumFractionDigits": 2
+  },
+  "qut-GT": {
+  	"country": "Guatemala",
+    "currency": "GTQ",
+    "minimumFractionDigits": 2
+  },
+  "es-GT": {
+  	"country": "Guatemala",
+    "currency": "GTQ",
+    "minimumFractionDigits": 2
+  },
+  "es-HN": {
+  	"country": "Honduras",
+    "currency": "HNL",
+    "minimumFractionDigits": 2
+  },
+  "zh-HK": {
+  	"country": "Hong Kong",
+    "currency": "HKD",
+    "minimumFractionDigits": 2
+  },
+  "hu-HU": {
+  	"country": "Hungary",
+    "currency": "HUF",
+    "minimumFractionDigits": 2
+  },
+  "is-IS": {
+  	"country": "Iceland",
+    "currency": "ISK",
+    "minimumFractionDigits": 0
+  },
+  "as-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "bn-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "en-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "gu-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "hi-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "kn-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "kok-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "as-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "ml-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "mr-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "or-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "pa-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "sa-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "ta-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "te-IN": {
+  	"country": "India",
+    "currency": "INR",
+    "minimumFractionDigits": 2
+  },
+  "id-ID": {
+  	"country": "Indonesia",
+    "currency": "IDR",
+    "minimumFractionDigits": 2
+  },
+  "fa-IR": {
+  	"country": "Iran",
+    "currency": "IRR",
+    "minimumFractionDigits": 2
+  },
+  "ar-IQ": {
+  	"country": "Iraq",
+    "currency": "IQD",
+    "minimumFractionDigits": 3
+  },
+  "en-IE": {
+  	"country": "Ireland",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "ga-IE": {
+  	"country": "Ireland",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "he-IL": {
+  	"country": "Israel",
+    "currency": "ILS",
+    "minimumFractionDigits": 2
+  },
+  "it-IT": {
+  	"country": "Italy",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "en-JM": {
+  	"country": "Jamaica",
+    "currency": "JMD",
     "minimumFractionDigits": 2
   },
   "ja-JP": {
+  	"country": "Japan",
     "currency": "JPY",
+    "minimumFractionDigits": 0
+  },
+  "ar-JO": {
+  	"country": "Jordan",
+    "currency": "JOD",
+    "minimumFractionDigits": 3
+  },
+  "kk-KZ": {
+  	"country": "Kazakhstan",
+    "currency": "KZT",
+    "minimumFractionDigits": 2
+  },
+  "sw-KE": {
+  	"country": "Kenya",
+    "currency": "KES",
+    "minimumFractionDigits": 2
+  },
+  "ko-KR": {
+  	"country": "Korea",
+    "currency": "KRW",
+    "minimumFractionDigits": 0
+  },
+  "ar-KW": {
+  	"country": "Kuwait",
+    "currency": "KWD",
+    "minimumFractionDigits": 3
+  },
+  "ky-KG": {
+  	"country": "Kyrgyzstan",
+    "currency": "KGS",
+    "minimumFractionDigits": 2
+  },
+  "lo-LA": {
+  	"country": "Lao",
+    "currency": "LAK",
+    "minimumFractionDigits": 2
+  },
+  "lv-LV": {
+  	"country": "Latvia",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "ar-LB": {
+  	"country": "Lebanon",
+    "currency": "LBP",
+    "minimumFractionDigits": 2
+  },
+  "ar-LY": {
+  	"country": "Libya",
+    "currency": "LYD",
+    "minimumFractionDigits": 3
+  },
+  "de-LI": {
+  	"country": "Liechtenstein",
+    "currency": "CHF",
+    "minimumFractionDigits": 2
+  },
+  "lt-LT": {
+  	"country": "Lithuania",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "fr-LU": {
+  	"country": "Luxembourg",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "de-LU": {
+  	"country": "Luxembourg",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "lb-LU": {
+  	"country": "Luxembourg",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "zh-MO": {
+  	"country": "Macao",
+    "currency": "MOP",
+    "minimumFractionDigits": 2
+  },
+  "mk-MK": {
+  	"country": "Macedonia",
+    "currency": "MKD",
+    "minimumFractionDigits": 2
+  },
+  "en-MY": {
+  	"country": "Malaysia",
+    "currency": "MYR",
+    "minimumFractionDigits": 2
+  },
+  "ms-MY": {
+  	"country": "Malaysia",
+    "currency": "MYR",
+    "minimumFractionDigits": 2
+  },
+  "dv-MV": {
+  	"country": "Maldives",
+    "currency": "MVR",
+    "minimumFractionDigits": 2
+  },
+  "mt-MT": {
+  	"country": "Malta",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "es-MX": {
+  	"country": "Mexico",
+    "currency": "MXN",
+    "minimumFractionDigits": 2
+  },
+  "fr-MC": {
+  	"country": "Monaco",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "mn-MN": {
+  	"country": "Mongolia",
+    "currency": "MNT",
+    "minimumFractionDigits": 2
+  },
+  "sr-ME": {
+  	"country": "Montenegro",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "ar-MA": {
+  	"country": "Morocco",
+    "currency": "MAD",
+    "minimumFractionDigits": 2
+  },
+  "ne-NP": {
+  	"country": "Nepal",
+    "currency": "NPR",
+    "minimumFractionDigits": 2
+  },
+  "nl-NL": {
+  	"country": "Netherlands",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "fy-NL": {
+  	"country": "Netherlands",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "en-NZ": {
+  	"country": "New Zealand",
+    "currency": "NZD",
+    "minimumFractionDigits": 2
+  },
+  "mi-NZ": {
+  	"country": "New Zealand",
+    "currency": "NZD",
+    "minimumFractionDigits": 2
+  },
+  "es-NI": {
+  	"country": "Nicaragua",
+    "currency": "NIO",
+    "minimumFractionDigits": 2
+  },
+  "ha-NG": {
+  	"country": "Nigeria",
+    "currency": "NGN",
+    "minimumFractionDigits": 2
+  },
+  "ig-NG": {
+  	"country": "Nigeria",
+    "currency": "NGN",
+    "minimumFractionDigits": 2
+  },
+  "yo-NG": {
+  	"country": "Nigeria",
+    "currency": "NGN",
+    "minimumFractionDigits": 2
+  },
+  "nb-NO": {
+  	"country": "Norway",
+    "currency": "NOK",
+    "minimumFractionDigits": 2
+  },
+  "nn-NO": {
+  	"country": "Norway",
+    "currency": "NOK",
+    "minimumFractionDigits": 2
+  },
+  "smj-NO": {
+  	"country": "Norway",
+    "currency": "NOK",
+    "minimumFractionDigits": 2
+  },
+  "se-NO": {
+  	"country": "Norway",
+    "currency": "NOK",
+    "minimumFractionDigits": 2
+  },
+  "sma-NO": {
+  	"country": "Norway",
+    "currency": "NOK",
+    "minimumFractionDigits": 2
+  },
+  "ar-OM": {
+  	"country": "Oman",
+    "currency": "OMR",
+    "minimumFractionDigits": 3
+  },
+  "ur-PK": {
+  	"country": "Pakistan",
+    "currency": "PKR",
+    "minimumFractionDigits": 2
+  },
+  "es-PA": {
+  	"country": "Panama",
+    "currency": "PAB",
+    "minimumFractionDigits": 2
+  },
+  "es-PY": {
+  	"country": "Paraguay",
+    "currency": "PYG",
+    "minimumFractionDigits": 0
+  },
+  "quz-PE": {
+  	"country": "Peru",
+    "currency": "PEN",
+    "minimumFractionDigits": 2
+  },
+  "es-PE": {
+  	"country": "Peru",
+    "currency": "PEN",
+    "minimumFractionDigits": 2
+  },
+  "fil-PH": {
+  	"country": "Philippines",
+    "currency": "PHP",
+    "minimumFractionDigits": 2
+  },
+  "en-PH": {
+  	"country": "Philippines",
+    "currency": "PHP",
+    "minimumFractionDigits": 2
+  },
+  "pl-PL": {
+  	"country": "Poland",
+    "currency": "PLN",
+    "minimumFractionDigits": 2
+  },
+  "pt-PT": {
+  	"country": "Portugal",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "es-PR": {
+  	"country": "Puerto Rico",
+    "currency": "USD",
+    "minimumFractionDigits": 2
+  },
+  "ar-QA": {
+  	"country": "Qatar",
+    "currency": "QAR",
+    "minimumFractionDigits": 2
+  },
+  "ro-RO": {
+  	"country": "Romania",
+    "currency": "RON",
+    "minimumFractionDigits": 2
+  },
+  "ba-RU": {
+  	"country": "Russia",
+    "currency": "RUB",
+    "minimumFractionDigits": 2
+  },
+  "ru-RU": {
+  	"country": "Russia",
+    "currency": "RUB",
+    "minimumFractionDigits": 2
+  },
+  "tt-RU": {
+  	"country": "Russia",
+    "currency": "RUB",
+    "minimumFractionDigits": 2
+  },
+  "sah-RU": {
+  	"country": "Russia",
+    "currency": "RUB",
+    "minimumFractionDigits": 2
+  },
+  "rw-RW": {
+  	"country": "Rwanda",
+    "currency": "RWF",
+    "minimumFractionDigits": 0
+  },
+  "ar-SA": {
+  	"country": "Saudi Arabia",
+    "currency": "SAR",
+    "minimumFractionDigits": 2
+  },
+  "wo-SN": {
+  	"country": "Senegal",
+    "currency": "XOF",
+    "minimumFractionDigits": 0
+  },
+  "sr-RS": {
+  	"country": "Serbia",
+    "currency": "RSD",
+    "minimumFractionDigits": 2
+  },
+  "sr-CS": {
+  	"country": "Serbia",
+    "currency": "RSD",
+    "minimumFractionDigits": 2
+  },
+  "zh-SG": {
+  	"country": "Singapore",
+    "currency": "SGD",
+    "minimumFractionDigits": 2
+  },
+  "en-SG": {
+  	"country": "Singapore",
+    "currency": "SGD",
+    "minimumFractionDigits": 2
+  },
+  "sk-SK": {
+  	"country": "Slovakia",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "sl-SI": {
+  	"country": "Slovenia",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "af-ZA": {
+  	"country": "South Africa",
+    "currency": "ZAR",
+    "minimumFractionDigits": 2
+  },
+  "en-ZA": {
+  	"country": "South Africa",
+    "currency": "ZAR",
+    "minimumFractionDigits": 2
+  },
+  "xh-ZA": {
+  	"country": "South Africa",
+    "currency": "ZAR",
+    "minimumFractionDigits": 2
+  },
+  "zu-ZA": {
+  	"country": "South Africa",
+    "currency": "ZAR",
+    "minimumFractionDigits": 2
+  },
+  "nso-ZA": {
+  	"country": "South Africa",
+    "currency": "ZAR",
+    "minimumFractionDigits": 2
+  },
+  "tn-ZA": {
+  	"country": "South Africa",
+    "currency": "ZAR",
+    "minimumFractionDigits": 2
+  },
+  "eu-ES": {
+  	"country": "Spain",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "ca-ES": {
+  	"country": "Spain",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "gl-ES": {
+  	"country": "Spain",
+    "currency": "EUR",
+    "minimumFractionDigits": 2
+  },
+  "si-LK": {
+  	"country": "Sri Lanka",
+    "currency": "LKR",
+    "minimumFractionDigits": 2
+  },
+  "smj-SE": {
+  	"country": "Sweden",
+    "currency": "SEK",
+    "minimumFractionDigits": 2
+  },
+  "se-SE": {
+  	"country": "Sweden",
+    "currency": "SEK",
+    "minimumFractionDigits": 2
+  },
+  "sma-SE": {
+  	"country": "Sweden",
+    "currency": "SEK",
+    "minimumFractionDigits": 2
+  },
+  "sv-SE": {
+  	"country": "Sweden",
+    "currency": "SEK",
+    "minimumFractionDigits": 2
+  },
+  "fr-CH": {
+  	"country": "Switzerland",
+    "currency": "CHF",
+    "minimumFractionDigits": 2
+  },
+  "de-CH": {
+  	"country": "Switzerland",
+    "currency": "CHF",
+    "minimumFractionDigits": 2
+  },
+  "it-CH": {
+  	"country": "Switzerland",
+    "currency": "CHF",
+    "minimumFractionDigits": 2
+  },
+  "rm-CH": {
+  	"country": "Switzerland",
+    "currency": "CHF",
+    "minimumFractionDigits": 2
+  },
+  "ar-SY": {
+  	"country": "Syria",
+    "currency": "SYP",
+    "minimumFractionDigits": 2
+  },
+  "syr-SY": {
+  	"country": "Syria",
+    "currency": "SYP",
+    "minimumFractionDigits": 2
+  },
+  "zh-TW": {
+  	"country": "Taiwan",
+    "currency": "TWD",
+    "minimumFractionDigits": 2
+  },
+  "tg-TJ": {
+  	"country": "Tajikistan",
+    "currency": "TJS",
+    "minimumFractionDigits": 2
+  },
+  "th-TH": {
+  	"country": "Thailand",
+    "currency": "THB",
+    "minimumFractionDigits": 2
+  },
+  "en-TT": {
+  	"country": "Trinidad and Tobago",
+    "currency": "TTD",
+    "minimumFractionDigits": 2
+  },
+  "ar-TN": {
+  	"country": "Tunisia",
+    "currency": "TND",
+    "minimumFractionDigits": 3
+  },
+  "tr-TR": {
+  	"country": "Turkey",
+    "currency": "TRY",
+    "minimumFractionDigits": 2
+  },
+  "tk-TM": {
+  	"country": "Turkmenistan",
+    "currency": "TMT",
+    "minimumFractionDigits": 2
+  },
+  "ar-AE": {
+  	"country": "United Arab Emirates",
+    "currency": "AED",
+    "minimumFractionDigits": 2
+  },
+  "uk-UA": {
+  	"country": "Ukraine",
+    "currency": "UAH",
     "minimumFractionDigits": 2
   },
   "en-GB": {
+  	"country": "United Kingdom",
     "currency": "GBP",
+    "minimumFractionDigits": 2
+  },
+  "gd-GB": {
+  	"country": "United Kingdom",
+    "currency": "GBP",
+    "minimumFractionDigits": 2
+  },
+  "cy-GB": {
+  	"country": "United Kingdom",
+    "currency": "GBP",
+    "minimumFractionDigits": 2
+  },
+  "en-US": {
+  	"country": "United States",
+    "currency": "USD",
+    "minimumFractionDigits": 2
+  },
+  "es-US": {
+  	"country": "United States",
+    "currency": "USD",
+    "minimumFractionDigits": 2
+  },
+  "es-UY": {
+  	"country": "Uruguay",
+    "currency": "UYU",
+    "minimumFractionDigits": 2
+  },
+  "uz-UZ": {
+  	"country": "Uzbekistan",
+    "currency": "UZS",
+    "minimumFractionDigits": 2
+  },
+  "vi-VN": {
+  	"country": "Vietnam",
+    "currency": "VND",
+    "minimumFractionDigits": 0
+  },
+  "ar-YE": {
+  	"country": "Yemen",
+    "currency": "YER",
+    "minimumFractionDigits": 2
+  },
+  "en-ZW": {
+  	"country": "Zimbabwe",
+    "currency": "ZWL",
     "minimumFractionDigits": 2
   }
 }
