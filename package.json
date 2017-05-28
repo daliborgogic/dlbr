@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/daliborgogic/dlbr/issues"
   },
+  "contributors": [{
+    "name": "Karadjordje",
+    "url": "https://github.com/Karadjordje"
+  }],
   "keywords": [
     "format",
     "currency",
