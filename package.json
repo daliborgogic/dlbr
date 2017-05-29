@@ -1,12 +1,11 @@
 {
   "name": "dlbr",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Format currency",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node node index.js index.js",
-    "test": "node tests/index.js"
+    "dev": "node --icu-data-dir=node_modules/full-icu index.js",
+    "test": "node --icu-data-dir=node_modules/full-icu tests/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,10 +14,12 @@
   "bugs": {
     "url": "https://github.com/daliborgogic/dlbr/issues"
   },
-  "contributors": [{
-    "name": "Karadjordje",
-    "url": "https://github.com/Karadjordje"
-  }],
+  "contributors": [
+    {
+      "name": "Karadjordje",
+      "url": "https://github.com/Karadjordje"
+    }
+  ],
   "keywords": [
     "format",
     "currency",
@@ -31,6 +32,6 @@
     "tape": "^4.6.3"
   },
   "dependencies": {
-    "intl": "^1.2.5"
+    "full-icu": "^1.1.3"
   }
 }

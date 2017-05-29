@@ -1,21 +1,21 @@
 # Format currency
 
-### Build Setup
+> To use JavaScript Intl API, Node.js needs to run with ```--icu-data-dir=node_modules/full-icu``` option that provides us to have Intl API in our Node environment
 
-**Requires Node.js 7+**
+## Build Setup
 
 ``` bash
 # install dependencies
 $ npm i
 
-# production mode
-$ npm start
+# development
+$ npm run dev
 
 # test
 $ npm t
 ```
 
-### Example
+## Example
 
 ```bash
 # USD dollar
