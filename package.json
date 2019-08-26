@@ -1,5 +1,5 @@
 {
-  "name": "dlbr",
+  "name": "@daliborgogic/dlbr",
   "version": "1.0.15",
   "description": "Format currency",
   "main": "index.js",
